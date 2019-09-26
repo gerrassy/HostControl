@@ -1,0 +1,21 @@
+# git ignore file
+Thumbs.db
+.*.swp
+.idea
+*.iml
+*.vcxproj.user
+
+
+# vscode
+.vscode
+Generated
+auto_generated
+x64
+Debug
+.vs
+*.db
+*.opendb
+*.cd
+/CrsSvc/WhiteListDB/~AutoRecover.WhiteListDB.vcxproj
+
+
